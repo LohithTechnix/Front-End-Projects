@@ -1,0 +1,37 @@
+Problem 1: Online Course Catalogue Page
+
+ Scenario: Design a webpage for an online learning platform to display a catalog of
+available courses.
+
+ Requirements:
+
+ Title and heading of the page.
+
+ Use a table to show 5 courses with the following columns: Course Name, Instructor,
+Duration, Mode (Online/Offline), and Registration Link.
+
+ Use the <abbr>, <strong>, and <blockquote> tags at least once.
+
+ Create a form at the bottom for students to suggest a new course (fields: Name,
+Email, Suggested Course, Message).
+
+ Use the <fieldset> and <legend> to group form elements.
+
+Problem 2: Event Invitation Webpage
+
+ Scenario: You are organizing a tech event. Create a webpage to invite participants.
+
+ Requirements:
+
+ Heading and subheading describing the event.
+
+ Use a combination of <ul> and <li> to list event highlights.
+
+ Use <details> and <summary> tags for FAQs.
+
+ Create a registration form using appropriate <input> types (Name, Email, Mobile,
+Select Session).
+
+ Use <iframe> to embed the event location (Google Maps or placeholder).
+
+ Include a quote about technology using the <q> tag.
